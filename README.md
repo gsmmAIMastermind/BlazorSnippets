@@ -16,7 +16,7 @@ This demo combines multiple snippets together:
 
 ![Snippets used together](images/Demo1.gif)
 
-## Blazor Component Snippets
+## Blazor Component Snippets !!!!
 
 | Snippet        | Purpose                                                    |
 | -------------- | ---------------------------------------------------------- |
